@@ -16,14 +16,16 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ---
 
-## Technical Highlights (concise)
-- **Autonomous simulation:** Built a **pedestrian controller** in **CARLA** using **pretrained Social‑LSTM** for trajectory prediction and **RL (TD3)** for aggressive behavior modeling with BEV observations.
-- **Robot kinematics & control:** Implemented **forward/inverse kinematics** (modified DH) for **Cobot/MyCobot Pro 600**; ROS 2 node for image‑based path skeletonization and IK with constraint \(\theta_2 + \theta_3 + \theta_4 = -\pi/2\).
-- **Planning on images:** Maze solver pipeline: color detection → preprocessing → skeletonization → **A\*** on grid graph → robot execution.
-- **Embedded/real‑time:** RP2040 / Pololu 3pi+ labs (GPIO masks, interrupts, debouncing, modal reactors); Linux/NVIDIA driver setup for OpenGL/GLX stability.
-- **Robust/Deep RL:** Robust RL exploration for multi‑agent interactions; **vision encoder + actor‑critic** design for continuous control.
+## Technical Highlights
 
-> Want the details? See **Featured Projects** below and linked repos.
+| Category | Skills & Tools | Proficiency / Focus |
+|:----------|:---------------|:--------------------|
+| **Programming** | Python (PyTorch, TensorFlow, OpenCV), MATLAB, Bash, C/C++ | Python – Advanced<br>MATLAB – Intermediate<br>Bash – Intermediate<br>C/C++ – Entry |
+| **Robotics & Systems** | ROS 2 (RViz, Gazebo, MoveIt), Path Planning & Motion Control, PID Control, Arduino | ROS 2 – Intermediate<br>Planning/Control – Intermediate<br>PID/Arduino – Entry |
+| **Tools & Simulation** | Linux, Git, Simulink, SolidWorks | Linux – Intermediate<br>Git – Intermediate<br>Simulink – Intermediate<br>SolidWorks – Entry |
+| **Machine Learning** | Deep Learning (CNN, GAN, ViT), Reinforcement Learning (TD3, SAC, PPO), General ML Techniques | DL – Intermediate<br>RL – Intermediate<br>ML – Intermediate |
+| **Current Focus** | Multi-agent RL in CARLA, Vision-based motion planning, Autonomous systems simulation | Research / Ongoing |
+
 
 ---
 
