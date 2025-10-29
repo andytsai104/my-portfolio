@@ -30,20 +30,29 @@ I’m especially interested in how learning-based systems can enhance robot auto
 ---
 
 ## Featured Projects
-> Replace links with your repositories and add a short GIF/screenshot per project in `/media/`.
 
 ### 1) RL‑Based Pedestrian Controller in CARLA
 **Stack:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer
 **Highlights:** 
 - Designed a multi-agent pedestrian controller integrating Social-LSTM and TD3 reinforcement learning.  
 - Implemented BEV-based perception with Vision Transformer encoders.  
-- Trained agents to simulate realistic and aggressive pedestrian behavior for autonomous vehicle safety.  
+- Trained agents to simulate realistic and aggressive pedestrian behavior for autonomous vehicle safety.
+
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
 ### 2) Image‑to‑Path Planning for MyCobot Pro 600
-**Stack:** Python · OpenCV · ROS 2 · IK (modified DH)  
-**Highlights:** Color segmentation → skeletonization → grid graph + **A\*** → motion execution; constraint **\(\theta_2 + \theta_3 + \theta_4 = -\pi/2\)**.  
-**Repo:** [Robotics I](https://github.com/andytsai104/Robotics-I-RAS545)
+**Stack:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics  
+**Highlights:** 
+- Designed a **ROS 2-based control pipeline** for a 6-DOF **MyCobot Pro 600** robotic arm to follow paths extracted from camera images.  
+- Developed an **image-processing workflow** using **OpenCV** for maze solving — color detection, morphological preprocessing, **skeletonization**, and **A\*** path planning.  
+- Built a **digital twin (URDF)** of the robot using **SolidWorks** for visualization and motion testing in **RViz** and **Gazebo**.  
+- Implemented **inverse kinematics** via a modified Denavit–Hartenberg model, enforcing the constraint  
+  \\( \theta_2 + \theta_3 + \theta_4 = -\pi/2 \\) for physical feasibility.  
+- Executed and tuned **joint trajectories** on both simulated and real hardware through **TCP/IP** control for smooth motion performance.
+- Built a ROS 2 + Gazebo simulation for the **Dobot Magician Lite** robotic arm. 
+
+**Repo:** [Robotics I](https://github.com/andytsai104/Robotics-I-RAS545/tree/main/Labs)
+
 
 
 ---
@@ -56,21 +65,22 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - **Embedded/Systems:** C/C++, Python, RP2040, Linux tooling, Git/GitHub, CI basics  
 - **Math:** Linear algebra, optimization, probability/stats
 
----
+<!--
 
 ## Publications & Reports
 - RAS 545 / Multi‑Robot Systems reports (selected): <links>  
 - Capstone/Research notes (Robust RL for pedestrians): <link>
 
----
+-->
 
 ## Contact
-- Email: youremail@asu.edu  
-- LinkedIn: <your‑linkedin>  
+- Email: ctsai67@asu.edu  
+- LinkedIn: [Chih-Hao (Andy) Tsai](https://www.linkedin.com/in/chih-hao-tsai/) 
 - For collaborations/internships (CPT/OPT eligible), feel free to reach out.
 
 ---
 
+<!--
 ### Repo Structure (recommended)
 ```
 resume-portfolio/
@@ -83,15 +93,18 @@ resume-portfolio/
    ├─ carla-pedestrian.md
    └─ mycobot-image-path.md
 ```
+-->
 
+<!--
 ### Maintenance Tips
 - Keep **Featured Projects** to **3–5** with crisp bullets + visuals.
 - Put **recruiter‑friendly summaries** up top; deep technical links in each project.
 - Mirror **portfolio PDFs** required by ASU in this repo (if permitted), or link to Drive.
 - Add a short **CHANGELOG** section for notable updates.
+-->
 
----
 
+<!--
 ### Badges (optional)
 You can add CI/test coverage or tech stack badges if you use actions:
 ```
@@ -99,8 +112,4 @@ You can add CI/test coverage or tech stack badges if you use actions:
 ![CARLA](https://img.shields.io/badge/sim-CARLA-informational)
 ![PyTorch](https://img.shields.io/badge/ML-PyTorch-blue)
 ```
-
----
-
-> **Next step**: Commit this README, add media previews, and link each project repo. Then create a profile README (special repo named `<your‑github‑username>`), and copy a shortened “About + Highlights + Links” section there.
-
+-->
