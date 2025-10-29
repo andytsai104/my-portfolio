@@ -31,7 +31,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ## Featured Projects
 
-### Robotics & Control Systems
+### - Robotics & Control Systems
 
 #### 1) RL‑Based Pedestrian Controller in CARLA (Jun 2025 - Present)
 **Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer
@@ -68,7 +68,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Created 3D-printed components via **SolidWorks CAD modeling**.  
 - Integrated **motor control**, **object detection**, and **robotic actuation** for full system automation.  
 
-### Deep Learning & Computer Vision
+### - Deep Learning & Computer Vision
 
 #### 1) Generative AI – Deep Convolutional GAN (Oct 2024 – Dec 2024) 
 **Skills:** Python · PyTorch  
