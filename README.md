@@ -81,7 +81,9 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 - Trained a **DCGAN** model on the CelebA dataset to generate realistic human faces.  
 - Implemented **image augmentation** and tuned hyperparameters for better convergence.  
-- Extended the model to generate diverse datasets (e.g., cat faces, noisy color images).  
+- Extended the model to generate diverse datasets (e.g., cat faces, noisy color images).
+
+**Repo:** [Generative AI – Deep Convolutional GAN](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P4)
 
 ---
 
@@ -91,7 +93,9 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Developed an **image recognition system** using **CNNs and Swin Transformer** models on a 2K+ logo dataset (160k+ images).  
 - Built a **custom CNN autoencoder** with 50+ layers for feature extraction and classification.  
 - Designed a **Tkinter GUI** for real-time logo similarity matching.  
-- Achieved **60% accuracy** using fine-tuned **EfficientNet** and **ResNet** models.  
+- Achieved **60% accuracy** using fine-tuned **EfficientNet** and **ResNet** models.
+
+**Repo:** [Handwriting Company Logos Recognition](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/FinalProject)
 
 ---
 
@@ -100,7 +104,9 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 - Fine-tuned a **Vision Transformer** for **object-background segmentation**.  
 - Applied **Gaussian blur** post-segmentation for enhanced visual focus.  
-- Integrated **depth estimation transformer** to infer image depth layers with adaptive normalization.  
+- Integrated **depth estimation transformer** to infer image depth layers with adaptive normalization.
+
+**Repo:** [Image Segmentation with Vision Transformer](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P3)
 
 ---
 
@@ -109,7 +115,9 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 - Designed a **sequence-generating RNN** using **Gated Recurrent Units (GRU)**.  
 - Trained on the **MAESTRO** dataset to produce AI-generated music.  
-- Customized **feature-based input conditioning** for stylistic variation.  
+- Customized **feature-based input conditioning** for stylistic variation.
+
+**Repo:** [Music Generation with GRUs](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P1)  
 
 ---
 
@@ -118,15 +126,19 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 - Reimplemented **SIREN (Sinusoidal Representation Network)** with a novel positional encoding mechanism.  
 - Achieved **90% faster loss convergence** and lower reconstruction error.  
-- Generated **high-resolution implicit representations** using optimized positional encoders.  
+- Generated **high-resolution implicit representations** using optimized positional encoders.
+
+**Repo:** [Positional Encoding Research](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P2)
 
 ---
 
 #### 6) Custom ResNet-36 Model for ImageNet Training (Sep 2024 – Oct 2024)
-**Skills:** Python · PyTorch  
+**Skills:** Python · PyTorch · Cloud High-Performance Computing (HPC)
 
 - Reconstructed **ResNet-36** based on research literature and trained it on the **ImageNet** dataset.  
-- Proposed a **novel activation function** for deeper feature expressivity.  
+- Proposed a **novel activation function** for deeper feature expressivity.
+
+**Repo:** [Custom ResNet-36 Model for ImageNet Training](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW3/P3)
 
 
 ---
