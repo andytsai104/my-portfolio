@@ -42,6 +42,8 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
+---
+
 #### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
 **Skills:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics  
 **Highlights:** 
@@ -60,13 +62,17 @@ I’m especially interested in how learning-based systems can enhance robot auto
   <img src="./media/final_project.gif" width="600" alt="Maze Solver Demo"/>
 </p>
 
+---
+
 #### 3) Autonomous Mobile Vehicle and Robotic Arm (Feb 2022 – Nov 2022)
 **Skills:** Python · TensorFlow · OpenCV · SolidWorks · Arduino  
 
 - Designed an **autonomous vehicle** with an attached robotic arm for object relocation tasks.  
 - Implemented **object detection** using TensorFlow and OpenCV on a WebCam.  
 - Created 3D-printed components via **SolidWorks CAD modeling**.  
-- Integrated **motor control**, **object detection**, and **robotic actuation** for full system automation.  
+- Integrated **motor control**, **object detection**, and **robotic actuation** for full system automation.
+
+---
 
 ### - Deep Learning & Computer Vision
 
@@ -132,6 +138,8 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - **Simulation:** CARLA, Gazebo/Isaac Sim (learning)  
 - **Embedded/Systems:** C/C++, Python, RP2040, Linux tooling, Git/GitHub, CI basics  
 - **Math:** Linear algebra, optimization, probability/stats
+
+---
 
 <!--
 
