@@ -131,16 +131,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ---
 
-## Skills
-- **Robotics:** Kinematics, motion planning, control (LQR, MPC basics), ROS 2  
-- **ML/RL:** PyTorch, supervised/DL (CNN/LSTM/Transformer basics), TD3/SAC/PPO, dataset tooling  
-- **Perception:** OpenCV, classical CV & tracking, BEV encoders  
-- **Simulation:** CARLA, Gazebo/Isaac Sim (learning)  
-- **Embedded/Systems:** C/C++, Python, RP2040, Linux tooling, Git/GitHub, CI basics  
-- **Math:** Linear algebra, optimization, probability/stats
-
----
-
 <!--
 
 ## Publications & Reports
