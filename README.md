@@ -189,7 +189,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 ## Contact
 - Email: ctsai67@asu.edu  
 - LinkedIn: [Chih-Hao (Andy) Tsai](https://www.linkedin.com/in/chih-hao-tsai/) 
-- For collaborations/internships (CPT/OPT eligible), feel free to reach out.
+- For collaborations/internships (CPT/STEM OPT eligible), feel free to reach out.
 
 ---
 
