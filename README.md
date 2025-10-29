@@ -52,6 +52,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Built a ROS 2 + Gazebo simulation for the **Dobot Magician Lite** robotic arm. 
 
 **Repo:** [Robotics I](https://github.com/andytsai104/Robotics-I-RAS545/tree/main/Labs)
+
 **Demo**:
 <p align="center">
   <img src="./media/final_project.gif" width="600" alt="Maze Solver Demo"/>
