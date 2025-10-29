@@ -31,8 +31,10 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ## Featured Projects
 
-### 1) RL‑Based Pedestrian Controller in CARLA
-**Stack:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer
+### Robotics & Control Systems
+
+#### 1) RL‑Based Pedestrian Controller in CARLA (Jun 2025 - Present)
+**Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer
 **Highlights:** 
 - Designed a multi-agent pedestrian controller integrating Social-LSTM and TD3 reinforcement learning.  
 - Implemented BEV-based perception with Vision Transformer encoders.  
@@ -40,8 +42,8 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
-### 2) Image‑to‑Path Planning for MyCobot Pro 600
-**Stack:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics  
+#### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
+**Skills:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics  
 **Highlights:** 
 - Designed a **ROS 2-based control pipeline** for a 6-DOF **MyCobot Pro 600** robotic arm to follow paths extracted from camera images.  
 - Developed an **image-processing workflow** using **OpenCV** for maze solving — color detection, morphological preprocessing, **skeletonization**, and **A\*** path planning.  
@@ -58,6 +60,67 @@ I’m especially interested in how learning-based systems can enhance robot auto
   <img src="./media/final_project.gif" width="600" alt="Maze Solver Demo"/>
 </p>
 
+#### 3) Autonomous Mobile Vehicle and Robotic Arm (Feb 2022 – Nov 2022)
+**Skills:** Python · TensorFlow · OpenCV · SolidWorks · Arduino  
+
+- Designed an **autonomous vehicle** with an attached robotic arm for object relocation tasks.  
+- Implemented **object detection** using TensorFlow and OpenCV on a WebCam.  
+- Created 3D-printed components via **SolidWorks CAD modeling**.  
+- Integrated **motor control**, **object detection**, and **robotic actuation** for full system automation.  
+
+### Deep Learning & Computer Vision
+
+#### 1) Generative AI – Deep Convolutional GAN (Oct 2024 – Dec 2024) 
+**Skills:** Python · PyTorch  
+
+- Trained a **DCGAN** model on the CelebA dataset to generate realistic human faces.  
+- Implemented **image augmentation** and tuned hyperparameters for better convergence.  
+- Extended the model to generate diverse datasets (e.g., cat faces, noisy color images).  
+
+---
+
+#### 2) Handwriting Company Logos Recognition (Oct 2024 – Dec 2024)
+**Skills:** Python · PyTorch · CNNs · Transformers  
+
+- Developed an **image recognition system** using **CNNs and Swin Transformer** models on a 2K+ logo dataset (160k+ images).  
+- Built a **custom CNN autoencoder** with 50+ layers for feature extraction and classification.  
+- Designed a **Tkinter GUI** for real-time logo similarity matching.  
+- Achieved **60% accuracy** using fine-tuned **EfficientNet** and **ResNet** models.  
+
+---
+
+#### 3) Image Segmentation with Vision Transformer (Oct 2024 – Nov 2024)
+**Skills:** Python · PyTorch · Vision Transformer (ViT)  
+
+- Fine-tuned a **Vision Transformer** for **object-background segmentation**.  
+- Applied **Gaussian blur** post-segmentation for enhanced visual focus.  
+- Integrated **depth estimation transformer** to infer image depth layers with adaptive normalization.  
+
+---
+
+#### 4) Music Generation with GRUs (Oct 2024 – Nov 2024)
+**Skills:** Python · PyTorch · GRU  
+
+- Designed a **sequence-generating RNN** using **Gated Recurrent Units (GRU)**.  
+- Trained on the **MAESTRO** dataset to produce AI-generated music.  
+- Customized **feature-based input conditioning** for stylistic variation.  
+
+---
+
+#### 5) Positional Encoding Research (Oct 2024 – Nov 2024)
+**Skills:** Python · PyTorch · Deep Neural Networks  
+
+- Reimplemented **SIREN (Sinusoidal Representation Network)** with a novel positional encoding mechanism.  
+- Achieved **90% faster loss convergence** and lower reconstruction error.  
+- Generated **high-resolution implicit representations** using optimized positional encoders.  
+
+---
+
+#### 6) Custom ResNet-36 Model for ImageNet Training (Sep 2024 – Oct 2024)
+**Skills:** Python · PyTorch  
+
+- Reconstructed **ResNet-36** based on research literature and trained it on the **ImageNet** dataset.  
+- Proposed a **novel activation function** for deeper feature expressivity.  
 
 
 ---
