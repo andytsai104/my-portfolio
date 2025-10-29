@@ -2,7 +2,7 @@
 
 > Autonomous Vehicle Systems • Robotics • Machine Learning (DL & RL) • Perception (Computer Vision)
 
-[LinkedIn](https://www.linkedin.com/in/chih-hao-tsai/) · [Email](ctsai67@asu.edu) · [GitHub](https://github.com/andytsai104) · [Resume (PDF)](./Resume_CT.pdf)
+[LinkedIn](https://www.linkedin.com/in/chih-hao-tsai/) · Email: ctsai67@asu.edu · [GitHub](https://github.com/andytsai104) · [Resume (PDF)](./Resume_CT.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo**:
 <p align="center">
-  <img src="./media/final_project.gif" width="600" alt="Maze Solver Demo"/>
+  <img src="./media/final_project.gif" width="600" />
 </p>
 
 ---
@@ -85,6 +85,14 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Generative AI – Deep Convolutional GAN](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P4)
 
+**Demo:**
+<p align="center">
+  <img src="./media/EEE598_GenAI_cat.png" width="600" />
+</p>
+<p align="center">
+  <img src="./media/EEE598_GenAI_celeb.png" width="600" />
+</p>
+
 ---
 
 #### 2) Handwriting Company Logos Recognition (Oct 2024 – Dec 2024)
@@ -97,6 +105,11 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Handwriting Company Logos Recognition](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/FinalProject)
 
+**Demo:**
+<p align="center">
+  <img src="" width="600" />
+</p>
+
 ---
 
 #### 3) Image Segmentation with Vision Transformer (Oct 2024 – Nov 2024)
@@ -107,6 +120,15 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Integrated **depth estimation transformer** to infer image depth layers with adaptive normalization.
 
 **Repo:** [Image Segmentation with Vision Transformer](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P3)
+
+**Demo:**
+<p align="center">
+  <img src="./media/EEE598_FaceSegmentation.png" width="600" />
+</p>
+<p align="center">
+  <img src="./media/EEE598_FS_BlurBasedOnDepth.png" width="600" />
+</p>
+
 
 ---
 
@@ -119,6 +141,11 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Music Generation with GRUs](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P1)  
 
+**Demo:**
+<p align="center">
+  <img src="./media/EEE598_MusicGen_pitches.png" width="600" />
+</p>
+
 ---
 
 #### 5) Positional Encoding Research (Oct 2024 – Nov 2024)
@@ -129,6 +156,14 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Generated **high-resolution implicit representations** using optimized positional encoders.
 
 **Repo:** [Positional Encoding Research](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW4/P2)
+
+**Demo:**
+<p align="center">
+  <img src="./media/EEE598_PE_TrainingLoss.png" width="600" />
+</p>
+<p align="center">
+  <img src="./media/EEE598_PositionalEncoding.png" width="600" />
+</p>
 
 ---
 
