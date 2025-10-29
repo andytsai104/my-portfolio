@@ -59,7 +59,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo**:
 <p align="center">
-  <img src="./media/final_project.gif" width="600" />
+  <img src="./media/RAS545_final_project.gif" width="600" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo:**
 <p align="center">
-  <img src="" width="600" />
+  <img src="./media/EEE598_FinalPoster.png" width="600" />
 </p>
 
 ---
