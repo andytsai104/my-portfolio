@@ -87,10 +87,10 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo:**
 <p align="center">
-  <img src="./media/EEE598_GenAI_cat.png" width="600" />
+  <img src="./media/EEE598_GenAI_celeb.png" width="600" />
 </p>
 <p align="center">
-  <img src="./media/EEE598_GenAI_celeb.png" width="600" />
+  <img src="./media/EEE598_GenAI_cat.png" width="600" />
 </p>
 
 ---
