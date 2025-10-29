@@ -2,7 +2,7 @@
 
 > Autonomous Vehicle Systems • Robotics • Machine Learning (DL & RL) • Perception (Computer Vision)
 
-[LinkedIn](https://www.linkedin.com/in/chih-hao-tsai/) · Email: ctsai67@asu.edu · [GitHub](https://github.com/andytsai104) · [Resume (PDF)](./Resume_CT.pdf)
+[LinkedIn](https://www.linkedin.com/in/chih-hao-tsai/) · ctsai67@asu.edu · [GitHub](https://github.com/andytsai104) · [Resume (PDF)](./Resume_CT.pdf)
 
 ---
 
