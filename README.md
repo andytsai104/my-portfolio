@@ -159,7 +159,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo:**
 <p align="center">
-  <img src="./media/EEE598_PE_TrainingLoss.png" width="600" />
+  <img src="./media/EEE598_PE_TrainingLoss.png" width="300" />
 </p>
 <p align="center">
   <img src="./media/EEE598_PositionalEncoding.png" width="600" />
