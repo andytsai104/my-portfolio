@@ -6,6 +6,26 @@
 
 ---
 
+
+## Table of Contents
+- [About Me](#about-me)
+- [Technical Highlights](#technical-highlights)
+- [Featured Projects](#featured-projects)
+  - [Robotics & Control Systems](#--robotics--control-systems)
+    - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
+    - [Image-to-Path Planning for MyCobot Pro 600](#2-image-to-path-planning-for-mycobot-pro-600-mar-2025---may-2025)
+    - [Autonomous Mobile Vehicle and Robotic Arm](#3-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
+  - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
+    - [Generative AI – Deep Convolutional GAN](#1-generative-ai--deep-convolutional-gan-oct-2024--dec-2024)
+    - [Handwriting Company Logos Recognition](#2-handwriting-company-logos-recognition-oct-2024--dec-2024)
+    - [Image Segmentation with Vision Transformer](#3-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
+    - [Music Generation with GRUs](#4-music-generation-with-grus-oct-2024--nov-2024)
+    - [Positional Encoding Research](#5-positional-encoding-research-oct-2024--nov-2024)
+    - [Custom ResNet-36 Model for ImageNet Training](#6-custom-resnet-36-model-for-imagenet-training-sep-2024--oct-2024)
+- [Contact](#contact)
+
+---
+
 ## About Me
 I’m a graduate student in **Robotics and Autonomous Systems** at **Arizona State University**, expected to graduate in **May 2026**. I’m passionate about **robotics, motion planning, and intelligent systems**, and enjoy building solutions that combine control, perception, and learning.
 
@@ -28,33 +48,12 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 
 ---
-
-## Table of Contents
-- [About Me](#about-me)
-- [Technical Highlights](#technical-highlights)
-- [Featured Projects](#featured-projects)
-  - [Robotics & Control Systems](#--robotics--control-systems)
-    - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
-    - [Image-to-Path Planning for MyCobot Pro 600](#2-image-to-path-planning-for-mycobot-pro-600-mar-2025---may-2025)
-    - [Autonomous Mobile Vehicle and Robotic Arm](#3-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
-  - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
-    - [Generative AI – Deep Convolutional GAN](#1-generative-ai--deep-convolutional-gan-oct-2024--dec-2024)
-    - [Handwriting Company Logos Recognition](#2-handwriting-company-logos-recognition-oct-2024--dec-2024)
-    - [Image Segmentation with Vision Transformer](#3-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
-    - [Music Generation with GRUs](#4-music-generation-with-grus-oct-2024--nov-2024)
-    - [Positional Encoding Research](#5-positional-encoding-research-oct-2024--nov-2024)
-    - [Custom ResNet-36 Model for ImageNet Training](#6-custom-resnet-36-model-for-imagenet-training-sep-2024--oct-2024)
-- [Contact](#contact)
-
-
----
 ## Featured Projects
 
 ### - Robotics & Control Systems
 
 #### 1) RL‑Based Pedestrian Controller in CARLA (Jun 2025 - Present)
 **Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer  
-**Highlights:** 
 - Designed a multi-agent pedestrian controller integrating Social-LSTM and TD3 reinforcement learning.  
 - Implemented BEV-based perception with Vision Transformer encoders.  
 - Trained agents to simulate realistic and aggressive pedestrian behavior for autonomous vehicle safety.
@@ -64,8 +63,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 ---
 
 #### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
-**Skills:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics  
-**Highlights:** 
+**Skills:** Python · OpenCV · ROS 2 · RViz · Gazebo · Forward/Inverse Kinematics   
 - Designed a **ROS 2-based control pipeline** for a 6-DOF **MyCobot Pro 600** robotic arm to follow paths extracted from camera images.  
 - Developed an **image-processing workflow** using **OpenCV** for maze solving — color detection, morphological preprocessing, **skeletonization**, and **A\*** path planning.  
 - Built a **digital twin (URDF)** of the robot using **SolidWorks** for visualization and motion testing in **RViz** and **Gazebo**.  
@@ -85,7 +83,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 3) Autonomous Mobile Vehicle and Robotic Arm (Feb 2022 – Nov 2022)
 **Skills:** Python · TensorFlow · OpenCV · SolidWorks · Arduino  
-
 - Designed an **autonomous vehicle** with an attached robotic arm for object relocation tasks.  
 - Implemented **object detection** using TensorFlow and OpenCV on a WebCam.  
 - Created 3D-printed components via **SolidWorks CAD modeling**.  
@@ -97,7 +94,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 1) Generative AI – Deep Convolutional GAN (Oct 2024 – Dec 2024) 
 **Skills:** Python · PyTorch  
-
 - Trained a **DCGAN** model on the CelebA dataset to generate realistic human faces.  
 - Implemented **image augmentation** and tuned hyperparameters for better convergence.  
 - Extended the model to generate diverse datasets (e.g., cat faces, noisy color images).
@@ -116,7 +112,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 2) Handwriting Company Logos Recognition (Oct 2024 – Dec 2024)
 **Skills:** Python · PyTorch · CNNs · Transformers  
-
 - Developed an **image recognition system** using **CNNs and Swin Transformer** models on a 2K+ logo dataset (160k+ images).  
 - Built a **custom CNN autoencoder** with 50+ layers for feature extraction and classification.  
 - Designed a **Tkinter GUI** for real-time logo similarity matching.  
@@ -133,7 +128,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 3) Image Segmentation with Vision Transformer (Oct 2024 – Nov 2024)
 **Skills:** Python · PyTorch · Vision Transformer (ViT)  
-
 - Fine-tuned a **Vision Transformer** for **object-background segmentation**.  
 - Applied **Gaussian blur** post-segmentation for enhanced visual focus.  
 - Integrated **depth estimation transformer** to infer image depth layers with adaptive normalization.
@@ -153,7 +147,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 4) Music Generation with GRUs (Oct 2024 – Nov 2024)
 **Skills:** Python · PyTorch · GRU  
-
 - Designed a **sequence-generating RNN** using **Gated Recurrent Units (GRU)**.  
 - Trained on the **MAESTRO** dataset to produce AI-generated music.  
 - Customized **feature-based input conditioning** for stylistic variation.
@@ -169,7 +162,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 #### 5) Positional Encoding Research (Oct 2024 – Nov 2024)
 **Skills:** Python · PyTorch · Deep Neural Networks  
-
 - Reimplemented **SIREN (Sinusoidal Representation Network)** with a novel positional encoding mechanism.  
 - Achieved **90% faster loss convergence** and lower reconstruction error.  
 - Generated **high-resolution implicit representations** using optimized positional encoders.
@@ -187,8 +179,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 ---
 
 #### 6) Custom ResNet-36 Model for ImageNet Training (Sep 2024 – Oct 2024)
-**Skills:** Python · PyTorch · Cloud High-Performance Computing (HPC)
-
+**Skills:** Python · PyTorch · Cloud High-Performance Computing (HPC)  
 - Reconstructed **ResNet-36** based on research literature and trained it on the **ImageNet** dataset.  
 - Proposed a **novel activation function** for deeper feature expressivity.
 
