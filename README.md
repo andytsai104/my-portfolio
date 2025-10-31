@@ -29,12 +29,31 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ---
 
+## Table of Contents
+- [About Me](#about-me)
+- [Technical Highlights](#technical-highlights)
+- [Featured Projects](#featured-projects)
+  - [Robotics & Control Systems](#--robotics--control-systems)
+    - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
+    - [Image-to-Path Planning for MyCobot Pro 600](#2-image-to-path-planning-for-mycobot-pro-600-mar-2025---may-2025)
+    - [Autonomous Mobile Vehicle and Robotic Arm](#3-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
+  - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
+    - [Generative AI – Deep Convolutional GAN](#1-generative-ai--deep-convolutional-gan-oct-2024--dec-2024)
+    - [Handwriting Company Logos Recognition](#2-handwriting-company-logos-recognition-oct-2024--dec-2024)
+    - [Image Segmentation with Vision Transformer](#3-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
+    - [Music Generation with GRUs](#4-music-generation-with-grus-oct-2024--nov-2024)
+    - [Positional Encoding Research](#5-positional-encoding-research-oct-2024--nov-2024)
+    - [Custom ResNet-36 Model for ImageNet Training](#6-custom-resnet-36-model-for-imagenet-training-sep-2024--oct-2024)
+- [Contact](#contact)
+
+
+---
 ## Featured Projects
 
 ### - Robotics & Control Systems
 
 #### 1) RL‑Based Pedestrian Controller in CARLA (Jun 2025 - Present)
-**Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer
+**Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer  
 **Highlights:** 
 - Designed a multi-agent pedestrian controller integrating Social-LSTM and TD3 reinforcement learning.  
 - Implemented BEV-based perception with Vision Transformer encoders.  
