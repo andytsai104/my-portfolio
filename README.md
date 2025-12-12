@@ -60,6 +60,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
+
 ---
 
 #### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
@@ -81,7 +82,17 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 ---
 
-#### 3) Autonomous Mobile Vehicle and Robotic Arm (Feb 2022 – Nov 2022)
+#### 3) Real-Time Embedded Mobile Robot Control with Pololu 3pi+ 2040 Robot (Sep 2025 - Dec 2025)
+**Skills:**  C/C++ · Embedded Systems · Real-Time Systems · PID/Feedback Control · Sensor Integration · State Machines 
+- Built a modular mobile-robot controller for CSE522 (Real-Time Embedded Systems) with multiple behavior modes.
+- Implemented and tuned autonomous behaviors including line tracking, hill climbing, and obstacle avoidance, with additional modules for different scenarios.
+- Integrated sensor readings into real-time control loops and used structured debugging/testing to improve stability and responsiveness.
+
+**Repo:** [Pololu Robot](https://github.com/andytsai104/pololu_robot)
+
+---
+
+#### 4) Autonomous Mobile Vehicle and Robotic Arm (Feb 2022 – Nov 2022)
 **Skills:** Python · TensorFlow · OpenCV · SolidWorks · Arduino  
 - Designed an **autonomous vehicle** with an attached robotic arm for object relocation tasks.  
 - Implemented **object detection** using TensorFlow and OpenCV on a WebCam.  
