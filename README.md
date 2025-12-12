@@ -14,7 +14,8 @@
   - [Robotics & Control Systems](#--robotics--control-systems)
     - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
     - [Image-to-Path Planning for MyCobot Pro 600](#2-image-to-path-planning-for-mycobot-pro-600-mar-2025---may-2025)
-    - [Autonomous Mobile Vehicle and Robotic Arm](#3-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
+    - [Real-Time Embedded Mobile Robot Control with Pololu 3pi+ 2040 Robot](#3-real-time-embedded-mobile-robot-control-with-pololu-3pi-2040-robot-sep-2025---dec-2025)
+    - [Autonomous Mobile Vehicle and Robotic Arm](#4-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
   - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
     - [Generative AI – Deep Convolutional GAN](#1-generative-ai--deep-convolutional-gan-oct-2024--dec-2024)
     - [Handwriting Company Logos Recognition](#2-handwriting-company-logos-recognition-oct-2024--dec-2024)
@@ -29,7 +30,7 @@
 ## About Me
 I’m a graduate student in **Robotics and Autonomous Systems** at **Arizona State University**, expected to graduate in **May 2026**. I’m passionate about **robotics, motion planning, and intelligent systems**, and enjoy building solutions that combine control, perception, and learning.
 
-With a background in **mechanical and electrical engineering**, I’ve led and contributed to projects involving **robotic arm control**, **autonomous vehicles**, and **image-based path planning**. I also have experience training **deep learning models** for **image generation**, **image segmentation**, **pedestrian trajectory prediction**, etc. My technical expertise includes **Python (PyTorch, TensorFlow, OpenCV)**, **ROS 2**, **Linux**, **MATLAB**, **Simulink**, **C/C++**, **SolidWorks**, **Deep Learning**, and **Reinforcement Learning**.
+With a background in **mechanical and electrical engineering**, I’ve led and contributed to projects involving **robotic arm control**, **autonomous vehicles**, **real-time embedded robot systems control**, **multi-robot systems control**, and **image-based path planning**. I also have experience training **deep learning models** for **image generation**, **image segmentation**, and **pedestrian trajectory prediction**. My technical expertise includes **Python (PyTorch, TensorFlow, OpenCV)**, **ROS 2**, **Linux**, **MATLAB**, **Simulink**, **C/C++**, **SolidWorks**, **Deep Learning**, and **Reinforcement Learning**.
 
 I’m especially interested in how learning-based systems can enhance robot autonomy — enabling machines to move, perceive, and make decisions safely in complex environments.
 
@@ -38,13 +39,13 @@ I’m especially interested in how learning-based systems can enhance robot auto
 ## Technical Highlights
 
 | Category | Skills & Tools | Proficiency / Focus |
-|:----------|:---------------|:--------------------|
-| **Programming** | Python (PyTorch, TensorFlow, OpenCV), MATLAB, Bash, C/C++ | Python – Advanced<br>MATLAB – Intermediate<br>Bash – Intermediate<br>C/C++ – Entry |
-| **Robotics & Systems** | ROS 2 (RViz, Gazebo, MoveIt), Path Planning & Motion Control, PID Control, Arduino | ROS 2 – Intermediate<br>Planning/Control – Intermediate<br>PID/Arduino – Entry |
-| **Tools** | Linux, Git, Simulink, SolidWorks | Linux – Intermediate<br>Git – Intermediate<br>Simulink – Intermediate<br>SolidWorks – Entry |
-| **Simulations**| RViz, Gazebo, Carla | RViz - Intermediate<br>Gazebo - ntermediate<br>Carla - Entry|
+|:--|:--|:--|
+| **Programming** | Python (PyTorch, TensorFlow, OpenCV), MATLAB, Bash, C/C++ | Python – Advanced<br>MATLAB – Intermediate<br>Bash – Intermediate<br>C/C++ – Intermediate (Embedded) |
+| **Robotics & Systems** | ROS 2 (RViz, Gazebo), Path Planning & Motion Control, Multi-agent Control, Real-time Control Loops, PID Control, Arduino | ROS 2 – Intermediate<br>Planning/Control – Intermediate<br>Multi-agent Control – Intermediate<br>Real-time Control Loops – Intermediate<br>PID/Arduino – Entry |
+| **Tools** | Linux, Git, Simulink, SolidWorks | Linux – Intermediate<br>Git – Intermediate<br>Simulink – Intermediate<br>SolidWorks – Intermediate |
+| **Simulations** | RViz, Gazebo, CARLA | RViz – Intermediate<br>Gazebo – Intermediate<br>CARLA – Entry |
 | **Machine Learning** | Deep Learning (CNN, GAN, ViT), Reinforcement Learning (TD3, SAC, PPO), General ML Techniques | DL – Intermediate<br>RL – Intermediate<br>ML – Intermediate |
-| **Current Focus** | Multi-agent RL in CARLA, Vision-based motion planning, Autonomous systems simulation | Research / Ongoing |
+| **Current Focus** | Multi-agent RL, Vision-based motion planning, Autonomous systems simulation | Research / Ongoing |
 
 
 ---
@@ -60,7 +61,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
-
 ---
 
 #### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
@@ -68,8 +68,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Designed a **ROS 2-based control pipeline** for a 6-DOF **MyCobot Pro 600** robotic arm to follow paths extracted from camera images.  
 - Developed an **image-processing workflow** using **OpenCV** for maze solving — color detection, morphological preprocessing, **skeletonization**, and **A\*** path planning.  
 - Built a **digital twin (URDF)** of the robot using **SolidWorks** for visualization and motion testing in **RViz** and **Gazebo**.  
-- Implemented **inverse kinematics** via a modified Denavit–Hartenberg model, enforcing the constraint  
-  \\( \theta_2 + \theta_3 + \theta_4 = -\pi/2 \\) for physical feasibility.  
+- Implemented **inverse kinematics** via a modified Denavit–Hartenberg model, enforcing the constraint for physical feasibility.  
 - Executed and tuned **joint trajectories** on both simulated and real hardware through **TCP/IP** control for smooth motion performance.
 - Built a ROS 2 + Gazebo simulation for the **Dobot Magician Lite** robotic arm. 
 
@@ -89,6 +88,11 @@ I’m especially interested in how learning-based systems can enhance robot auto
 - Integrated sensor readings into real-time control loops and used structured debugging/testing to improve stability and responsiveness.
 
 **Repo:** [Pololu Robot](https://github.com/andytsai104/pololu_robot)
+
+**Demo:**
+<!-- <p align="center">
+  <img src="./media/RAS545_final_project.gif" width="600" />
+</p> -->
 
 ---
 
@@ -153,7 +157,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
   <img src="./media/EEE598_FS_BlurBasedOnDepth.png" width="600" />
 </p>
 
-
 ---
 
 #### 4) Music Generation with GRUs (Oct 2024 – Nov 2024)
@@ -196,7 +199,6 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Custom ResNet-36 Model for ImageNet Training](https://github.com/andytsai104/Deep-Learning-and-Application-EEE598-/tree/main/HW/HW3/P3)
 
-
 ---
 
 <!--
@@ -227,18 +229,7 @@ resume-portfolio/
    ├─ carla-pedestrian.md
    └─ mycobot-image-path.md
 ```
--->
 
-<!--
-### Maintenance Tips
-- Keep **Featured Projects** to **3–5** with crisp bullets + visuals.
-- Put **recruiter‑friendly summaries** up top; deep technical links in each project.
-- Mirror **portfolio PDFs** required by ASU in this repo (if permitted), or link to Drive.
-- Add a short **CHANGELOG** section for notable updates.
--->
-
-
-<!--
 ### Badges (optional)
 You can add CI/test coverage or tech stack badges if you use actions:
 ```
