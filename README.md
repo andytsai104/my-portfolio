@@ -2,7 +2,10 @@
 
 > Autonomous Vehicle Systems • Robotics • Machine Learning (DL & RL) • Perception (Computer Vision)
 
-[LinkedIn](https://www.linkedin.com/in/chih-hao-tsai/) · ctsai67@asu.edu · [GitHub](https://github.com/andytsai104) · [Resume (PDF)](./Resume_CT.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chih-hao-tsai/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ctsai67@asu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/andytsai104)
+[![Resume](https://img.shields.io/badge/Resume-PDF-FF5555?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./Resume_CT.pdf)
 
 ---
 
@@ -26,9 +29,6 @@
 - [Contact](#contact)
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chih-hao-tsai/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:ctsai67@asu.edu)
 
 ## About Me
 I’m a graduate student in **Robotics and Autonomous Systems** at **Arizona State University**, expected to graduate in **May 2026**. I’m passionate about **robotics, motion planning, and intelligent systems**, and enjoy building solutions that combine control, perception, and learning.
