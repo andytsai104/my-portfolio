@@ -27,6 +27,9 @@
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chih-hao-tsai/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:ctsai67@asu.edu)
+
 ## About Me
 I’m a graduate student in **Robotics and Autonomous Systems** at **Arizona State University**, expected to graduate in **May 2026**. I’m passionate about **robotics, motion planning, and intelligent systems**, and enjoy building solutions that combine control, perception, and learning.
 
@@ -229,8 +232,9 @@ I’m especially interested in how learning-based systems can enhance robot auto
 -->
 
 ## Contact
-- Email: ctsai67@asu.edu  
-- LinkedIn: [Chih-Hao (Andy) Tsai](https://www.linkedin.com/in/chih-hao-tsai/) 
+- **Email:** [ctsai67@asu.edu](mailto:ctsai67@asu.edu)  
+- **LinkedIn:** [Chih-Hao (Andy) Tsai](https://www.linkedin.com/in/chih-hao-tsai/)
+- **GitHub:** [github.com/andytsai104](https://github.com/andytsai104)
 - For collaborations/internships (CPT/STEM OPT eligible), feel free to reach out.
 
 ---
