@@ -61,6 +61,13 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
 
+**Demo:**
+<p align="center">
+  <img src="./media/CARLA_demo.gif" width="600" />
+  <br>
+  <b>Demo for vehicles perfoming aggressive actions.</b>
+</p>
+
 ---
 
 #### 2) Image‑to‑Path Planning for MyCobot Pro 600 (Mar 2025 - May 2025)
@@ -74,7 +81,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Repo:** [Robotics I](https://github.com/andytsai104/Robotics-I-RAS545/tree/main/Labs)
 
-**Demo**:
+**Demo:**
 <p align="center">
   <img src="./media/RAS545_final_project.gif" width="600" />
 </p>
