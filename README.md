@@ -46,7 +46,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 | **Programming** | Python (PyTorch, TensorFlow, OpenCV), MATLAB, Bash, C/C++ | Python – Advanced<br>MATLAB – Intermediate<br>Bash – Intermediate<br>C/C++ – Intermediate (Embedded) |
 | **Robotics & Systems** | ROS 2 (RViz, Gazebo), Path Planning & Motion Control, Multi-agent Control, Real-time Control Loops, PID Control, Arduino | ROS 2 – Intermediate<br>Planning/Control – Intermediate<br>Multi-agent Control – Intermediate<br>Real-time Control Loops – Intermediate<br>PID/Arduino – Entry |
 | **Tools** | Linux, Git, Simulink, SolidWorks | Linux – Intermediate<br>Git – Intermediate<br>Simulink – Intermediate<br>SolidWorks – Intermediate |
-| **Simulations** | RViz, Gazebo, CARLA | RViz – Intermediate<br>Gazebo – Intermediate<br>CARLA – Entry |
+| **Simulations** | RViz, Gazebo, CARLA | RViz – Intermediate<br>Gazebo – Intermediate<br>CARLA – Intermediate |
 | **Machine Learning** | Deep Learning (CNN, GAN, ViT), Reinforcement Learning (TD3, SAC, PPO), General ML Techniques | DL – Intermediate<br>RL – Intermediate<br>ML – Intermediate |
 | **Current Focus** | Multi-agent RL, Vision-based motion planning, Autonomous systems simulation | Research / Ongoing |
 
