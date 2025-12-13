@@ -56,7 +56,8 @@ I’m especially interested in how learning-based systems can enhance robot auto
 #### 1) RL‑Based Pedestrian Controller in CARLA (Jun 2025 - Present)
 **Skills:** Python · PyTorch · CARLA · Social‑LSTM · TD3 · Vision Transformer  
 - Designed a multi-agent pedestrian controller integrating Social-LSTM and TD3 reinforcement learning.  
-- Implemented BEV-based perception with Vision Transformer encoders.  
+- Implemented BEV-based perception with Vision Transformer encoders.
+- Created complex intersection scenarios where vehicles perform aggressive behaviors to test safety model robustness.
 - Trained agents to simulate realistic and aggressive pedestrian behavior for autonomous vehicle safety.
 
 **Repo:** [Dense Deep Reinforcement Learning](https://github.com/andytsai104/Dense-Deep-Reinforcement-Learning)
