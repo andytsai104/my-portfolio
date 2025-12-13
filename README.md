@@ -90,10 +90,20 @@ I’m especially interested in how learning-based systems can enhance robot auto
 **Repo:** [Pololu Robot](https://github.com/andytsai104/pololu_robot)
 
 **Demo:**
-<p align="center">
-  <img src="./media/HillClimb.gif" width="300" height="600" />
-  <img src="./media/LT_demo.gif" width="300" height="600" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./media/CSE522_HillClimb.gif" width="300" height="600" />
+      <br />
+      <b>Hill Climbing</b>
+    </td>
+    <td align="center">
+      <img src="./media/CSE522_LT_demo.gif" width="300" height="600" />
+      <br />
+      <b>Line Tracking</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
