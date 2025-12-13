@@ -91,8 +91,8 @@ I’m especially interested in how learning-based systems can enhance robot auto
 
 **Demo:**
 <p align="center">
-  <img src="./media/HillClimb.gif" width="300" />
-  <img src="./media/LT_demo.gif" width="300" />
+  <img src="./media/HillClimb.gif" width="300" height="600" />
+  <img src="./media/LT_demo.gif" width="300" height="600" />
 </p>
 
 ---
