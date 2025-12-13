@@ -65,7 +65,7 @@ I’m especially interested in how learning-based systems can enhance robot auto
 <p align="center">
   <img src="./media/CARLA_demo.gif" width="600" />
   <br>
-  <b>Demo for vehicles perfoming aggressive actions.</b>
+  <b>Vehicles perfoming aggressive actions towards pedestrians and other vehicles</b>
 </p>
 
 ---
