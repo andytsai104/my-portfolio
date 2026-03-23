@@ -16,7 +16,7 @@
 - [Featured Projects](#featured-projects)
   - [Robotics & Control Systems](#--robotics--control-systems)
     - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
-    - [Image-to-Path Planning for MyCobot Pro 600](#2-image-to-path-planning-for-mycobot-pro-600-mar-2025---may-2025)
+    - [Image-to-Path Planning for MyCobot Pro 600](#2-imagetopath-planning-for-mycobot-pro-600-mar-2025---may-2025)
     - [Real-Time Embedded Mobile Robot Control with Pololu 3pi+ 2040 Robot](#3-real-time-embedded-mobile-robot-control-with-pololu-3pi-2040-robot-sep-2025---dec-2025)
     - [Autonomous Mobile Vehicle and Robotic Arm](#4-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
   - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
