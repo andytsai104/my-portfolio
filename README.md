@@ -140,7 +140,7 @@ Submitted to MECC 2026.
 
 **Demo:**
 <p align="center">
-  <img src="./media/omnivla/omnivla_demo.gif" width="600" />
+  <img src="./media/omnivla/omnivla_demo.gif" width="800" />
   <br>
 </p>
 
