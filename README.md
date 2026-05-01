@@ -9,51 +9,12 @@
 
 ---
 
-<!-- - [About Me](#about-me)
-- [Technical Highlights](#technical-highlights)
-- [Featured Projects](#featured-projects)
-  - [Robotics & Control Systems](#--robotics--control-systems)
-    - [RL-Based Pedestrian Controller in CARLA](#1-rlbased-pedestrian-controller-in-carla-jun-2025---present)
-    - [Image-to-Path Planning for MyCobot Pro 600](#2-imagetopath-planning-for-mycobot-pro-600-mar-2025---may-2025)
-    - [Real-Time Embedded Mobile Robot Control with Pololu 3pi+ 2040 Robot](#3-real-time-embedded-mobile-robot-control-with-pololu-3pi-2040-robot-sep-2025---dec-2025)
-    - [Autonomous Mobile Vehicle and Robotic Arm](#4-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
-  - [Deep Learning & Computer Vision](#--deep-learning--computer-vision)
-    - [Generative AI – Deep Convolutional GAN](#1-generative-ai--deep-convolutional-gan-oct-2024--dec-2024)
-    - [Handwriting Company Logos Recognition](#2-handwriting-company-logos-recognition-oct-2024--dec-2024)
-    - [Image Segmentation with Vision Transformer](#3-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
-    - [Music Generation with GRUs](#4-music-generation-with-grus-oct-2024--nov-2024)
-    - [Positional Encoding Research](#5-positional-encoding-research-oct-2024--nov-2024)
-    - [Custom ResNet-36 Model for ImageNet Training](#6-custom-resnet-36-model-for-imagenet-training-sep-2024--oct-2024)
-- [Contact](#contact) -->
-
 
 ## Table of Contents
 - [About Me](#about-me)
 - [Current Research Focus](#current-research-focus)
 - [Technical Highlights](#technical-highlights)
-
-<details>
-<summary><a href="#featured-robotics--autonomous-systems-projects">Featured Robotics & Autonomous Systems Projects</a></summary>
-
-- [RL-Based Pedestrian Policy Learning in CARLA](#1-rl-based-pedestrian-policy-learning-in-carla-jun-2025--apr-2026)
-- [OmniVLA Semantic Warehouse Navigation](#2-omnivla-semantic-warehouse-navigation-jan-2026--apr-2026)
-- [Consensus-Based Multi-Robot Warehouse Task Allocation](#3-consensus-based-multi-robot-warehouse-task-allocation-aug-2025--dec-2025)
-- [Vision-Based Maze Solving & Path Planning with MyCobot Pro 600](#4-vision-based-maze-solving--path-planning-with-mycobot-pro-600-mar-2025--may-2025)
-- [Real-Time Embedded Robotics with Pololu 3pi+ 2040](#5-real-time-embedded-robotics-with-pololu-3pi-2040-sep-2025--dec-2025)
-- [Autonomous Mobile Vehicle and Robotic Arm](#6-autonomous-mobile-vehicle-and-robotic-arm-feb-2022--nov-2022)
-
-</details>
-
-<details>
-<summary><a href="#supporting-machine-learning--computer-vision-projects">Supporting Machine Learning & Computer Vision Projects</a></summary>
-
-- [Handwriting Company Logos Recognition](#1-handwriting-company-logos-recognition-oct-2024--dec-2024)
-- [Image Segmentation with Vision Transformer](#2-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
-- [Positional Encoding Research](#3-positional-encoding-research-oct-2024--nov-2024)
-- [Other Coursework Projects](#other-coursework-projects)
-
-</details>
-<!-- - [Featured Robotics Projects](#featured-robotics--autonomous-systems-projects)
+- [Featured Robotics Projects](#featured-robotics--autonomous-systems-projects)
   - [RL-Based Pedestrian Policy Learning in CARLA](#1-rl-based-pedestrian-policy-learning-in-carla-jun-2025--apr-2026)
   - [OmniVLA Semantic Warehouse Navigation](#2-omnivla-semantic-warehouse-navigation-jan-2026--apr-2026)
   - [Consensus-Based Multi-Robot Warehouse Task Allocation](#3-consensus-based-multi-robot-warehouse-task-allocation-aug-2025--dec-2025)
@@ -65,7 +26,7 @@
   - [Handwriting Company Logos Recognition](#1-handwriting-company-logos-recognition-oct-2024--dec-2024)
   - [Image Segmentation with Vision Transformer](#2-image-segmentation-with-vision-transformer-oct-2024--nov-2024)
   - [Positional Encoding Research](#3-positional-encoding-research-oct-2024--nov-2024)
-  - [Other Coursework Projects](#other-coursework-projects) -->
+  - [Other Coursework Projects](#other-coursework-projects)
 - [Contact](#contact)
 
 ---
