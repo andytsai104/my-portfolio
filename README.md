@@ -150,6 +150,7 @@ Submitted to MECC 2026.
   <br>
   <b>ROS 2 pipeline for OmniVLA-based semantic goal prediction and Nav2 warehouse navigation.</b>
 </p>
+
 ---
 
 ### 3) Consensus-Based Multi-Robot Warehouse Task Allocation (Aug 2025 – Dec 2025)
