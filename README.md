@@ -1,6 +1,10 @@
-# Chih-Hao (Andy) Tsai — M.S. in Robotics & Autonomous Systems @ ASU
+<!-- # Chih-Hao (Andy) Tsai — M.S. in Robotics & Autonomous Systems @ ASU
 
-> Autonomous Systems • Robot Learning • ROS 2 • Multi-Robot Systems • AV Simulation
+> Autonomous Systems • Robot Learning • ROS 2 • Multi-Robot Systems • AV Simulation -->
+
+# Chih-Hao (Andy) Tsai — Robotics Software Engineer | M.S. Robotics & Autonomous Systems
+
+> ROS 2 • Autonomous Systems • Robot Navigation • Robot/AVs Simulations • Perception • Reinforcement Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chih-hao-tsai/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ctsai67@asu.edu)
@@ -33,21 +37,17 @@
 
 ## About Me
 
-I’m a graduate student in **Robotics and Autonomous Systems** at **Arizona State University**, expected to graduate in **May 2026**.
+<!-- ## About Me -->
 
-My work focuses on building autonomous robotic systems that combine **perception, planning, control, and machine learning**. I’m particularly interested in:
-- robot learning,
-- autonomous navigation,
-- multi-robot systems,
-- and simulation-driven robotics research.
+I recently graduated with an **M.S. in Robotics and Autonomous Systems, Electrical Engineering concentration, from Arizona State University**.
 
-My recent projects involve:
-- safety-critical pedestrian policy learning in **CARLA**,
-- semantic robot navigation using **Vision-Language-Action (VLA)** models,
-- distributed multi-robot task allocation,
-- and vision-based robotic manipulation using **ROS 2**.
+My work focuses on **robotics software, autonomous systems, simulation, perception, control, and machine learning**. I have hands-on experience building projects with **ROS 2, Gazebo, Nav2, CARLA, OpenCV, PyTorch, C/C++, Python, and Linux**.
 
-I primarily work with **ROS 2**, **CARLA**, **Gazebo**, **PyTorch**, **OpenCV**, and **Linux-based robotics systems**.
+My recent work includes **safety-critical pedestrian policy learning in CARLA**, **semantic robot navigation with Vision-Language-Action models**, **distributed multi-robot warehouse task allocation**, **vision-based robotic arm path planning**, and **real-time embedded mobile robot control**.
+
+I am currently interested in **Robotics Software Engineering, Autonomous Systems, AV Simulation/Testing, Perception, Motion Planning, and Robotics Integration**.
+
+<!-- I primarily work with **ROS 2**, **CARLA**, **Gazebo**, **PyTorch**, **OpenCV**, and **Linux-based robotics systems**. -->
 
 ---
 
